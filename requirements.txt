@@ -1,0 +1,6 @@
+gradio
+transformers
+diffusers
+torch
+matplotlib
+networkx
